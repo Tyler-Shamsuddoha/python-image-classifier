@@ -3,6 +3,7 @@ The final project for COMP 309 Machine Learning Tools and Techniques, using Kera
 distinguish between strawberries, cherries and tomatoes with good accuracy.
 
 Summary report and discussion along with preprocessing, hyper-parameter tuning, optimisation and all the good stuff is located in the final report <b>Report309_shamsutyle.pdf<b>
+https://github.com/Tyler-Shamsuddoha/python-image-classifier-keras/blob/master/Report309_shamsutyle.pdf
 
 Please read it!
 
